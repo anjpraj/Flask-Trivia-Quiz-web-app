@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Remove Question</title>
+</head>
+<body>
+    <h1> Remove a Question</h1>
+    <div class = "pair">
+        <div class ="question">
+            <p> {{ question.question }} </p>
+        </div>
+    <div class = "answer">
+            <p> {{ question.answer }} </p>
+        </div>
+    <div class = "confirmation">
+        <p> Are you sure you want to delete this question? </p>
+        <form method="POST">
+            <button type="submit"> Yes, Delete </button>
+            <a href="{{ url_for('welcome') }}"> <button type="button"> No, Go Back </button> </a>
+        </form>
+    </div>
+    </div>
+    
+</body>
+</html>

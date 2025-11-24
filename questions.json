@@ -1,0 +1,53 @@
+[
+  {
+    "question": "Which animal is known as the king of the jungle?",
+    "answer": "Lion"
+  },
+  {
+    "question": "What is the fastest land animal in the world?",
+    "answer": "Cheetah"
+  },
+  {
+    "question": "Which animal can live both on land and in water?",
+    "answer": "Frog"
+  },
+  {
+    "question": "What is the largest mammal on Earth?",
+    "answer": "Blue Whale"
+  },
+  {
+    "question": "Which bird is known for its impressive colorful tail feathers?",
+    "answer": "Peacock"
+  },
+  {
+    "question": "What is the only mammal capable of true flight?",
+    "answer": "Bat"
+  },
+  {
+    "question": "Which animal is famous for changing its skin color?",
+    "answer": "Chameleon"
+  },
+  {
+    "question": "What is the largest land animal?",
+    "answer": "African Elephant"
+  },
+  {
+    "question": "Which animal sleeps for the longest duration during winter?",
+    "answer": "Bear"
+  },
+  { "question": "Which sea creature has eight arms?", "answer": "Octopus" },
+  {
+    "question": "Which animal is known for carrying its baby in a pouch?",
+    "answer": "Kangaroo"
+  },
+  {
+    "question": "What is the slowest animal in the world?",
+    "answer": "Three-toed Sloth"
+  },
+  { "question": "What do pandas mainly eat?", "answer": "Bamboo" },
+  {
+    "question": "Which animal is known as the ship of the desert?",
+    "answer": "Camel"
+  },
+  { "question": "Which small insect produces honey?", "answer": "Honeybee" }
+]
